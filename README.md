@@ -68,6 +68,14 @@ This indicates differences in customer quality, engagement, or product experienc
 - High-value users should be actively retained and rewarded.
 - Predictive signals can be used to identify customers likely to repeat and trigger targeted interventions.
 
+## Data Privacy and Anonymization
+
+To protect user privacy, the dataset shared in this repository has been partially anonymized.
+
+Personally identifiable information such as customer names and phone numbers has been removed. Email IDs are retained only as a unique identifier to accurately track repeat purchases and customer-level behavior, which is essential for retention and lifetime value analysis.
+
+No sensitive personal data is included, and the dataset is used solely for analytical and educational purposes.
+
 ## Tools Used
 
 - Python (Pandas, NumPy, Matplotlib)
