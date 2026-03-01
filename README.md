@@ -76,6 +76,8 @@ Personally identifiable information such as customer names and phone numbers has
 
 No sensitive personal data is included, and the dataset is used solely for analytical and educational purposes.
 
+The analysis focuses on aggregate patterns and trends rather than individual user behavior.
+
 ## Tools Used
 
 - Python (Pandas, NumPy, Matplotlib)
