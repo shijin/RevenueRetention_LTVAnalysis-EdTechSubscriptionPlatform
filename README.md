@@ -4,7 +4,7 @@
 
 ### Overview
 
-This case study analyzes 4.1 years of real subscription data from an online ed-tech platform (IDALS), focusing on revenue retention, customer lifetime value (LTV), and repeat purchase behavior.
+This case study analyzes 4 years and 10 months of real subscription data from an online ed-tech platform (IDALS), focusing on revenue retention, customer lifetime value (LTV), and repeat purchase behavior.
 
 The goal of this analysis is not just to explore data, but to derive product and business insights that can inform retention, pricing, and growth decisions.
 
